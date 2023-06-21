@@ -99,6 +99,22 @@ bash /opt/quepasa-source/helpers/update-workflows.sh
 <hr />
 <hr />
 
+**QUEM NÃO CONSEGUI GERAR O QRCODE COM O NOVO UPDATE**
+
+</p>
+Só fazer o seguinte|:
+</p>
+sudo apt update && apt upgrade -y
+</p>
+sudo add-apt-repository ppa:redislabs/redis
+</p>
+sudo apt update
+</p>
+sudo apt install redis
+</p>
+sudo apt-get install libvips
+</p>
+
 **Pronto tudo Funcionando**
 
 <hr />
