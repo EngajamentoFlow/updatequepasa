@@ -1,43 +1,17 @@
 <p align="center">
-	<img src="https://github.com/nocodeleaks/quepasa/raw/main/src/assets/favicon.png" alt="Quepasa-logo" width="100" />	
-	<p align="center">Quepasa é um software de código aberto, totalmente gratuito, para troca de mensagens com a plataforma Whatsapp</p>
+<img src="https://cwmkt.com.br/wp-content/uploads/2023/08/logo-github-cwmkt.svg" alt="DispZap Whats Marketing" width="240" />
+<p align="center">Seja bem-vindo ao Guia de Instalação Chatwoot+N8N+Quepasa 🚀</p>
 </p>
-<hr />
-<p align="left">
+  
+<p align="center">
+<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
+<span>Grupo WhatsaAPP: </span>
+<a href="https://link.cwmkt.com.br/grupo-whats" target="_blank">Grupo</a>
 </p>
-<hr />
-<p align="left">
-	<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-	<span>Grupo WhatsaAPP Chatwoot : </span>
-	<a href="https://chat.whatsapp.com/CLKge3hmHmmBcIL04mBzmT" target="_blank">Grupo</a>
-<hr />
-<p align="left">
-	<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-	<span>Grupo WhatsaAPP Quepasa: </span>
-	<a href="https://chat.whatsapp.com/Cv5WfmujRzE09yQ6hagYim" target="_blank">Grupo</a>
-</p>
-<hr />
-<p align="left">
-	<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
-	<span>Grupo WhatsaAPP N8N: </span>
-	<a href="https://telinkei.com/gp-n8n-zap" target="_blank">Grupo</a>
-</p>
+
 <hr />
 <hr />
 
-**Gostou do Tutorial? Faça sua Contribuição**
-
-<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
-</p>
-
-**PIX CNPJ**
-
-```
-45959142000119	
-```
-
-<hr />
-<hr />
 
 
 **ATUALIZAÇÃO WORKFLOWS e APIQUEPASA**
@@ -115,22 +89,4 @@ sudo apt install redis
 sudo apt-get install libvips
 </p>
 
-**Pronto tudo Funcionando**
 
-<hr />
-<hr />
-
-**Gostou do Tutorial? Faça sua Contribuição**
-
-<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
-</p>
-
-
-**PIX CNPJ**
-
-```
-45959142000119	
-```
-
-<hr />
-<hr />
